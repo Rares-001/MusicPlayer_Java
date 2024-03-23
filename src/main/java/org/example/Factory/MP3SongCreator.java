@@ -1,6 +1,6 @@
 package org.example.Factory;
 
-import Model.Song;
+import org.example.Model.Song;
 
 public class MP3SongCreator extends SongCreator
 {

@@ -1,6 +1,6 @@
 package org.example.Model;
 
-import Observer.LibraryObserver;
+import org.example.Observer.LibraryObserver;
 
 import java.util.ArrayList;
 import java.util.List;

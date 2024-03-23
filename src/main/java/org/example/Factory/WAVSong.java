@@ -1,13 +1,13 @@
 package org.example.Factory;
 
-import Model.Song;
+import org.example.Model.Song;
 
 public class WAVSong implements Song
 {
     private String title;
     private String artist;
 
-    private String filePath
+    private String filePath;
 
     public WAVSong(String title, String artist)
     {

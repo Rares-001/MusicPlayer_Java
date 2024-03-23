@@ -1,6 +1,6 @@
 package org.example.Model;
 
-import Observer.PlaylistObserver;
+import org.example.Observer.PlaylistObserver;
 
 import java.util.ArrayList;
 import java.util.Collections;

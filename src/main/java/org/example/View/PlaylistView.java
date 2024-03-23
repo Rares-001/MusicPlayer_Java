@@ -1,7 +1,8 @@
 package org.example.View;
 
-import Model.Playlist;
-import Observer.PlaylistObserver;
+
+import org.example.Model.Playlist;
+import org.example.Observer.PlaylistObserver;
 
 public class PlaylistView implements PlaylistObserver
 {

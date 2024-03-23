@@ -1,7 +1,9 @@
 package org.example.View;
 
-import Model.MusicLibrary;
-import Observer.LibraryObserver;
+
+
+import org.example.Model.MusicLibrary;
+import org.example.Observer.LibraryObserver;
 
 public class LibraryView implements LibraryObserver
 {
